@@ -219,6 +219,8 @@ const Chat = (props) => {
               }}
             />
 
+            <Button icon={<i className="fas fa-paperclip"></i>} />
+
             <Button
               icon={<i class="fa fa-paper-plane" aria-hidden="true"></i>}
               onClick={() => {
